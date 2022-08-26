@@ -4,7 +4,7 @@ import { signInWithGooglePopup, createUserDocumentFromAuth,signInAuthUserWithEma
 import FormInput from "../form-input/form-input.component";
 import './sign-in-form.styles.scss';
 import Button from '../button/button.component';
-import { UserContext  } from '../../context/user.context';
+
 
 const defaultFormFields = {
    
